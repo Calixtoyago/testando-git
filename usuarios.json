@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Yago",
+    "senha": "45678",
+    "email": "yago@gmail.com",
+    "celular": "2198765432",
+    "livros": [],
+    "is_admin": true
+  },
+  {
+    "nome": "Davi",
+    "senha": "32109",
+    "email": "davi@gmail.com",
+    "celular": "40028922",
+    "livros": [],
+    "is_admin": false
+  },
+  {
+    "nome": "Eduardo",
+    "senha": "45678",
+    "email": "eduardo@gmail.com",
+    "celular": "12345678",
+    "livros": [],
+    "is_admin": false
+  }
+]
